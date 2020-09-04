@@ -1,1 +1,3 @@
+# The Daily Bugle
+
 The BBC News Website Clone....
